@@ -54,7 +54,7 @@
     "lifetioncore-lib": "^2.0.0",
     "bs58": "^4.0.1",
     "jsrsasign": "^8.0.4",
-    "protobufjs": "=5.0.1"
+    "protobufjs": "=6.11.3"
   },
   "devDependencies": {
     "lifetioncore-build": "^2.0.0",
